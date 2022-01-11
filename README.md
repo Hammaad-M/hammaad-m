@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on training a custom voice controlled AI assistant
 - 🌱 I’m currently learning Data Science
-- 💬 Ask me about developing custom web applications and 
+- 💬 Ask me about developing custom websites and software!
 - 📫 How to reach me: send me a message through my website: [www.hammaadmemon.com](www.hammaadmemon.com)
 - ⚡ Fun fact: I know 4 languages! (not including software development languages)
