@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-#### I'm a full-stack web developer, writer, and high schooler
-
+#### I'm a full-stack web developer and tech writer!
 
 - 🔭 I’m currently working on training a custom voice controlled AI assistant
 - 💬 Ask me about developing custom websites and software!
